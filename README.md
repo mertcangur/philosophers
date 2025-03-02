@@ -59,7 +59,6 @@ gcc -Wall -Wextra -Werror -pthread philosophers.c -o philosophers
 
 ## 📜 Resources
 - [Dining Philosophers Problem (Wikipedia)](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
-- [42 School Philosophers Project](https://42.fr)
 
 ---
 **📌 Note:** This project is developed in accordance with the **Philosophers** project in the **common core** stage of **42 School**. If you encounter any issues during development, feel free to open an **issue** in the repository! 🚀
