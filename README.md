@@ -14,8 +14,8 @@
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/username/42-philosophers.git
-cd 42-philosophers
+git clone https://github.com/mertcangur/philosophers
+cd philosophers
 ```
 
 ### 2️⃣ Compilation
